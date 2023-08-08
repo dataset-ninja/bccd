@@ -1,4 +1,4 @@
-**BCCD: Blood Cell Count and Detection** is a dataset for object detection tasks. Possible applications of the dataset could be in the medical industry and biomedical research. 
+**BCCD: Blood Cell Count and Detection** is a dataset for an object detection task. Possible applications of the dataset could be in the medical industry and biomedical research. 
 
 The dataset consists of 364 images with 4888 labeled objects belonging to 3 different classes including *WBC*, *RBC*, and *Platelets*.
 
