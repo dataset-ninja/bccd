@@ -9,4 +9,4 @@ If you make use of the BCCD data, please cite the following reference:
 }
 ```
 
-[🔗 Source](https://github.com/Shenggan/BCCD_Dataset)
+[Source](https://github.com/Shenggan/BCCD_Dataset)
