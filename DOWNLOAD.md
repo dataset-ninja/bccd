@@ -1,6 +1,6 @@
 Dataset **BCCD** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/O/S/Vq/twx6U4OBTlcTY3tzGYxFQqsZtXX3WOSdalZHLOI0WD2bOsG4IBZg9sIb8eAqe1b35hA6Spf3ms60tQPyv9ZxW1XcVsrV4NeHr6fHD48oVAhjZ4OpTdwT8LJatd0l.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/S/B/6i/L81i6fn94g9ojOEO3jVGeEg8bcUpSOQJbWHYBj0yXW13HUeyfHEvxnZlX5YigasNUEwV0vwZrquRpMXMRssXGNDt5XKNkkF14xqlJHPOEgbR2nihBg1eHgVtvcQ5.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
