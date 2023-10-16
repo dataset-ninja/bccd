@@ -20,7 +20,7 @@ HIDE_DATASET = False  # set False when 100% sure about repo quality
 ##################################
 # * After uploading to instance ##
 ##################################
-LICENSE: License = License.MIT(url="https://github.com/Shenggan/BCCD_Dataset/blob/master/LICENSE")
+LICENSE: License = License.MIT(source_url="https://github.com/Shenggan/BCCD_Dataset/blob/master/LICENSE")
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [
     Industry.Medical(is_used=False),
     Research.Biomedical(is_used=False),
